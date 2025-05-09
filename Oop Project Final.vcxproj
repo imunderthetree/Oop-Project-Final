@@ -127,7 +127,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="Oop Project Final.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Admin\admin.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Ambulance\ambulance.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Doctor\doctor.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Nurse\nurse.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Patient\patient.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Person\person.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Receptionist\receptionist.cpp" />
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\UI &amp; main\UI.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\Admin.hh" />
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\Ambulance.hh" />
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\doctor.hh" />
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\nurse.hh" />
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\patient.hh" />
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\person.hh" />
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\receptionist.hh" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

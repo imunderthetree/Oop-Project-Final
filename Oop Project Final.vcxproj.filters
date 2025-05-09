@@ -15,8 +15,52 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Oop Project Final.cpp">
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\UI &amp; main\UI.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Receptionist\receptionist.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Person\person.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Patient\patient.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Nurse\nurse.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Doctor\doctor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Ambulance\ambulance.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\..\Desktop\phase 2\classes\Admin\admin.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\Admin.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\Ambulance.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\doctor.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\nurse.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\patient.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\person.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\..\Desktop\phase 2\Headers\receptionist.hh">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
